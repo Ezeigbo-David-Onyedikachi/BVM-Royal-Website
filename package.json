@@ -1,0 +1,18 @@
+{
+  "name": "bvm-royal-concept-website",
+  "version": "1.0.0",
+  "description": "BVM Royal Concept Limited - Premium Laundry Soap Manufacturer Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "website",
+    "laundry",
+    "soap"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
